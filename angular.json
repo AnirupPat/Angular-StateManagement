@@ -140,5 +140,8 @@
       }
     }
   },
-  "defaultProject": "ngxs"
+  "defaultProject": "ngxs",
+  "cli": {
+    "analytics": "647e52b4-529a-4e33-bf6a-0908c7639628"
+  }
 }
